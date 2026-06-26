@@ -1,0 +1,158 @@
+{
+  "profile": {
+    "name": "Avinash J",
+    "shortName": "Avinash",
+    "tagline": "I craft beautiful websites and compelling video edits — turning ideas into digital experiences that leave a lasting impression.",
+    "role": "Web Developer & Video Editor",
+    "specialization": "Web Development & Video Editing",
+    "location": "Tambaram, Chennai, Tamil Nadu, India",
+    "yearsOfExperience": 0,
+    "bio": "I'm Avinash J, a passionate web developer and video editor based in Chennai, Tamil Nadu. I love building clean, responsive websites and creating visually engaging video content. Whether it's designing a pixel-perfect UI or cutting and colour-grading a reel, I bring creativity and attention to detail to everything I make. I'm currently exploring new opportunities and excited to grow in both the web and creative industries.",
+    "avatarSvg": "",
+    "social": {
+      "github": "https://github.com/Avinash-hub788",
+      "instagram": "https://www.instagram.com/marvel_addictorz?igsh=OXdoYjJrZTl5YXZ4",
+      "linkedin": "https://www.linkedin.com/in/avinash-gamerz-8b0727307/",
+      "email": "avinashkala81@gmail.com",
+      "phone": "+91 9344121504",
+      "website": "https://avinashj.dev"
+    }
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Languages",
+        "items": ["Python", "SQL", "HuggingFace", "React"]
+      },
+      {
+        "name": "Frontend",
+        "items": ["React", "Next.js", "Vite", "Tailwind CSS", "Framer Motion", "Three.js"]
+      },
+      {
+        "name": "Backend",
+        "items": ["Node.js", "FastAPI", "Express"]
+      },
+      {
+        "name": "AI / ML",
+        "items": ["OpenAI API", "LangChain", "LlamaIndex", "PyTorch", "HuggingFace", "RAG Pipelines"]
+      },
+      {
+        "name": "Databases",
+        "items": ["MongoDB", "Supabase"]
+      },
+      {
+        "name": "Video Editing",
+        "items": ["Alight Motion", "CapCut", "Blender", "After Effects"]
+      }
+    ]
+  },
+  "experience": [],
+  "videoProjects": [
+    {
+      "id": "vp-1",
+      "title": "Visiting Title Card",
+      "category": "Title Card",
+      "description": "RJ Balaji Title Card in Karuppu Movie",
+      "tools": ["After Effects", "Alight Motion", "CapCut"],
+      "year": "2026",
+      "video": "Editing Videos/Alight Motion Preset 1512 ✨💥⚡🤩 Vetri Editz Official 🎧 [EFA1D36].mp4",
+      "thumbnail": "Editing Videos/Screenshot 2026-06-24 204543.png"
+    },
+    {
+      "id": "vp-2",
+      "title": "Cricket Video Edit",
+      "category": "Entertainment",
+      "description": "Ruturaj Gaikwad Batting was Insane in that Day",
+      "tools": ["Capcut", "Alight Motion"],
+      "year": "2026",
+      "video": "Editing Videos/lv_0_20260503030456.mp4",
+      "thumbnail": ""
+    },
+    {
+      "id": "vp-3",
+      "title": "Cricket Video Edit",
+      "category": "Entertainment",
+      "description": "Pocket Dynamo Batting was Insane in that Day",
+      "tools": ["CapCut", "Alight Motion"],
+      "year": "2026",
+      "video": "Editing Videos/lv_0_20260507121413.mp4",
+      "thumbnail": ""
+    },
+    {
+      "id": "vp-4",
+      "title": "GBU Title Card",
+      "category": "Title Card",
+      "description": "Good Bad Ugly Title Card Reacreation",
+      "tools": ["Alight Motion, CapCut"],
+      "year": "2025",
+      "video": "Editing Videos/Video Project 1.mp4",
+      "thumbnail": "Editing Videos/Screenshot 2026-06-24 204418.png"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Zepto-Data-Cleaning-Project",
+      "subtitle": "Data Cleaning Project",
+      "description": "This is the Data cleaning with the Google Colab.",
+      "stack": ["Pandas", "Python"],
+      "role": "Data Cleaning",
+      "year": "2025",
+      "link": "https://github.com/Avinash-hub788/Zepto-Data-Cleaning-Project.git",
+      "image": "",
+      "highlight": true
+    },
+    {
+      "id": "proj-2",
+      "title": "Smart Stock Prediction",
+      "subtitle": "Predicts the stocks in the future",
+      "description": "Prediction of the smart stocks in the python",
+      "stack": ["Python", "yfinance","Pandas","numpy"],
+      "role": "Data Engineering",
+      "year": "2025",
+      "link": "https://github.com/Avinash-hub788/smart-stock-.git",
+      "image": "",
+      "highlight": true
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rrase College Of Engineering, Padappai",
+      "degree": "Bachelor of Technology",
+      "field": "Information Technology",
+      "period": "2023 – 2027",
+      "location": "Tambaram, Chennai, Tamil Nadu, India",
+      "gpa": "7.3 / 10"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "quote": "Avinash is one of those rare engineers who can zoom out to understand the business impact and zoom in to write beautiful, maintainable code. He elevated every codebase he touched at Stripe.",
+      "name": "Priya Mehta",
+      "role": "Engineering Manager, Stripe",
+      "avatarColor": "#7C3AED"
+    },
+    {
+      "id": "t2",
+      "quote": "The RAG pipeline Avinash architected for our internal knowledge base completely changed how our engineering org shares and retrieves information. It's genuinely one of the most impactful internal tools we've built.",
+      "name": "Jordan Lee",
+      "role": "CTO, Series B Startup",
+      "avatarColor": "#DB2777"
+    },
+    {
+      "id": "t3",
+      "quote": "Working with Avinash is a masterclass in clarity. He asks the right questions, proposes elegant solutions, and ships with very few surprises. I'd hire him again in a heartbeat.",
+      "name": "Rahul Sharma",
+      "role": "VP of Engineering, Flipkart",
+      "avatarColor": "#EA580C"
+    },
+    {
+      "id": "t4",
+      "quote": "Avinash mentored me through my first year as a software engineer. His feedback was honest, structured, and kind. He has a real gift for making complex systems understandable.",
+      "name": "Sneha Patel",
+      "role": "Software Engineer, Anthropic",
+      "avatarColor": "#059669"
+    }
+  ]
+}
